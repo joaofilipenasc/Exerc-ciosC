@@ -40,7 +40,7 @@ int main(){
 		break;
 
 		default:
-		printf("Cidade indisponivel\n");
+		printf("DDD nao cadastrado\n");
 
 	}
 
